@@ -1,0 +1,16 @@
+{
+    "extensions.ignoreRecommendations": true,
+    "explorer.confirmDelete": false,
+    "workbench.editor.enablePreview": false,
+    "git.openRepositoryInParentFolders": "never",
+    "files.watcherExclude": {
+        "**/.bloop": true,
+        "**/.metals": true
+    },
+    "editor.minimap.enabled": false,
+    "explorer.autoReveal": false,
+    "redhat.telemetry.enabled": false,
+    "editor.wordWrap": "on",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmPasteNative": false
+}
