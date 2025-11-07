@@ -9,6 +9,11 @@
         "command": "workbench.action.previousEditor"
     },
     {
+        "key": "cmd+l",
+        "command": "center-editor-window.center",
+        "when": "editorTextFocus"
+    },
+    {
         "key": "ctrl+right",
         "command": "paredit.forwardSexp",
         "when": "calva:cursorAfterComment && editorLangId == 'clojure' || calva:keybindingsEnabled && config.calva.paredit.hijackVSCodeDefaults && editorTextFocus && !calva:cursorInComment && editorLangId == 'clojure' && paredit:keyMap =~ /original|strict/"

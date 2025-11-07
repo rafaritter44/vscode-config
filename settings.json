@@ -8,5 +8,6 @@
     "extensions.ignoreRecommendations": true,
     "workbench.editor.enablePreview": false,
     "git.openRepositoryInParentFolders": "always",
+    "center-editor-window.threeStateToggle": true,
     "redhat.telemetry.enabled": false
 }
