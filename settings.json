@@ -9,5 +9,6 @@
     "workbench.editor.enablePreview": false,
     "git.openRepositoryInParentFolders": "always",
     "center-editor-window.threeStateToggle": true,
+    "calva.paredit.defaultKeyMap": "strict",
     "redhat.telemetry.enabled": false
 }
