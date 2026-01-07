@@ -10,5 +10,6 @@
     "git.openRepositoryInParentFolders": "always",
     "center-editor-window.threeStateToggle": true,
     "calva.paredit.defaultKeyMap": "strict",
-    "redhat.telemetry.enabled": false
+    "redhat.telemetry.enabled": false,
+    "telemetry.telemetryLevel": "off"
 }
