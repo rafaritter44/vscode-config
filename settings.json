@@ -10,6 +10,15 @@
     "git.openRepositoryInParentFolders": "always",
     "center-editor-window.threeStateToggle": true,
     "calva.paredit.defaultKeyMap": "strict",
+    "FSharp.suggestGitignore": false,
+    "haskell.manageHLS": "GHCup",
     "redhat.telemetry.enabled": false,
-    "telemetry.telemetryLevel": "off"
+    "telemetry.telemetryLevel": "off",
+    "workbench.colorTheme": "Dark Modern",
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    }
 }
