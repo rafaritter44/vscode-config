@@ -12,6 +12,7 @@
     "files.insertFinalNewline": true,
     "center-editor-window.threeStateToggle": true,
     "calva.paredit.defaultKeyMap": "strict",
+    "calva.enableClojureLspOnStart": "when-file-opened-use-furthest-project",
     "FSharp.suggestGitignore": false,
     "haskell.manageHLS": "GHCup",
     "redhat.telemetry.enabled": false,
