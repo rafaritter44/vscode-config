@@ -10,6 +10,8 @@
     "workbench.colorTheme": "Dark Modern",
     "git.openRepositoryInParentFolders": "always",
     "files.insertFinalNewline": true,
+    "pgFormatter.noExtraLine": true,
+    "pgFormatter.keywordCase": "lowercase",
     "center-editor-window.threeStateToggle": true,
     "calva.paredit.defaultKeyMap": "strict",
     "calva.enableClojureLspOnStart": "when-file-opened-use-furthest-project",
